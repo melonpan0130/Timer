@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+using Microsoft.VisualBasic;
+
 namespace Timer
 {
     public partial class Form1 : Form
